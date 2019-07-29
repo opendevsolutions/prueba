@@ -1,4 +1,2 @@
-Repository Init Content
+BPM project example
 =======================
-
-Your project description here.
